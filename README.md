@@ -3,10 +3,10 @@
 ### 로그인/로그아웃, 상품등록, 상품관리, 장바구니, 주문하기/주문취소, 구매이력 등 쇼핑몰에 필요한 핵심 기능 구현
 
 ## 사용기술
-+ SpringBoot 2.5.9, Thymeleaf, JPA, MySQL5.8.9, 
-+ Java11
-+ Maven
-+ IntelliJ
++ SpringBoot 2.5.9, Thymeleaf, JPA, MySQL5.8.9, SpringSecurity
++ Language : Java11
++ Build Tool : Maven
++ IDE : IntelliJ
 
 ## 메인화면
 ![메인화면](https://user-images.githubusercontent.com/73814691/153765632-58558e83-2145-46c0-a5fb-c499652470b2.png)
