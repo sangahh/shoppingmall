@@ -8,6 +8,9 @@
 + Maven
 + IntelliJ
 
+## 상품등록
+![상품등록](https://user-images.githubusercontent.com/73814691/153765571-e974cee5-9d21-44e9-851d-cdd1edcc1cf3.gif)
+
 ## ERD
 ![entityManagerFactory(EntityManagerFactoryBuilder)](https://user-images.githubusercontent.com/73814691/153052127-b1968ead-7ea1-4e6e-9462-5d31c3a0f434.png)
 
