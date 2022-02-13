@@ -10,6 +10,9 @@
 
 ## 상품등록
 ![상품등록](https://user-images.githubusercontent.com/73814691/153765571-e974cee5-9d21-44e9-851d-cdd1edcc1cf3.gif)
++ 관리자가 상품을 등록할 수 있습니다. 
++ 상품명, 판매중/품절 상태, 가격, 재고, 상세내용을 입력할 수 있습니다.
++ 상품 이미지를 등록할 수 있습니다. 
 
 ## ERD
 ![entityManagerFactory(EntityManagerFactoryBuilder)](https://user-images.githubusercontent.com/73814691/153052127-b1968ead-7ea1-4e6e-9462-5d31c3a0f434.png)
